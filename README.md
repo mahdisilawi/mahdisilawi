@@ -3,14 +3,14 @@
 ### Language and Frameworks I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,git,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css" />
   </a>
 </p>
 </br>
 ### Also Softwares:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,postman" />
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,stackoverflow,postman" />
   </a>
 </p>
 
