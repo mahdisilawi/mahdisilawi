@@ -1,6 +1,7 @@
 ### Hi there 👋
+### My Name is Mahdi
 ### Im junior Back-End Software Engineer
-### Some of Language and Tools I Work With:
+### Some of Languages and Tools I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,visualstudio,vscode,git,github,stackoverflow,postman" />
