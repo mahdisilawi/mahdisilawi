@@ -1,19 +1,19 @@
 ### Hi there 👋
 ### Im junior Back-End Software Engineer
-### Language and Frameworks I Work With:
+### Some of Language and Tools I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,visualstudio,vscode,git,github,stackoverflow,postman" />
   </a>
 </p>
 </br>
-### Also Softwares:
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github,stackoverflow,postman" />
   </a>
 </p>
-
+-->
 <!--
 **mahdisilawi/mahdisilawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
