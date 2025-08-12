@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My Name is Mahdi.
-### Im junior Back-End Software Engineer.
+### Back-End Software Engineer.
 ### Some of Languages and Tools I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
