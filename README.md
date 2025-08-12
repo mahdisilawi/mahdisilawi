@@ -4,7 +4,7 @@
 ### Some of Languages and Tools I Work With:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,visualstudio,vscode,git,github,stackoverflow,postman" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,linux,windows,rider,visualstudio,vscode,git,github,stackoverflow,postman" />
   </a>
 </p>
 </br>
